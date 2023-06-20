@@ -4,7 +4,7 @@ import open from './open.png';
 
 export default function Card({ item, styles }) {
   return (
-    <li className={styles.galeria__card} classNama={styles.galeria__card}>
+    <li className={styles.galeria__card}>
       <img
         src={item.imagem}
         alt={item.titulo}

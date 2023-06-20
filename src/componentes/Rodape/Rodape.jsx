@@ -1,7 +1,7 @@
 import React from 'react';
-import facebook from '../../assets/iconesRedes/facebook.svg';
-import instagram from '../../assets/iconesRedes/instagram.svg';
-import twitter from '../../assets/iconesRedes/twitter.svg';
+import facebook from 'assets/iconesRedes/facebook.svg';
+import instagram from 'assets/iconesRedes/instagram.svg';
+import twitter from 'assets/iconesRedes/twitter.svg';
 import stylle from './Rodape.module.scss';
 
 export default function Rodape() {
